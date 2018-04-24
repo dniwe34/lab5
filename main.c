@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//prog edu
 int main()
 {
 	int x,y;
